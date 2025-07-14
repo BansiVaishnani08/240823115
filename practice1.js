@@ -12,3 +12,5 @@ else
 {
     console.log(num + "Number is ODD")
 }
+
+console.log("Git Demo")
